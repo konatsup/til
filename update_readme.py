@@ -137,7 +137,6 @@ def generate_readme(all_topics_data: Dict[str, dict]) -> str:
     articles_lines = []
     for topic_name in sorted(all_topics_data.keys(), key=str.lower):
         articles_lines.append(f"### {topic_name}")
-        articles_lines.append("---")
         topic_tree = all_topics_data[topic_name]
 
         # トピック配下を再帰的にMarkdown化する
