@@ -9,6 +9,7 @@
 ## Categories
 - [ChakuraUI](#chakuraui)
 - [Hoge](#hoge)
+- [OCaml](#ocaml)
 - [Sample](#sample)
 
 ## Articles
@@ -27,6 +28,9 @@
 - [Sub Sub Dir](Hoge/SubDirctory/SubSubDirctory/subdirdir-article.md)
 
 
+
+### OCaml
+- [Basic](OCaml/basic.md)
 
 ### Sample
 - [サンプル記事](Sample/sample-article.md)
