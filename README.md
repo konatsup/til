@@ -8,6 +8,7 @@
 
 ## Categories
 - [ChakuraUI](#chakuraui)
+- [Haskell](#haskell)
 - [Hoge](#hoge)
 - [OCaml](#ocaml)
 - [Sample](#sample)
@@ -15,6 +16,9 @@
 ## Articles
 ### ChakuraUI
 - [Anatomy](ChakuraUI/anatomy.md)
+
+### Haskell
+- [Haskell Basic](Haskell/basic.md)
 
 ### Hoge
 - [Hoge記事](Hoge/hoge-article.md)
