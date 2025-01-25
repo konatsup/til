@@ -11,6 +11,7 @@
 - [Haskell](#haskell)
 - [Hoge](#hoge)
 - [OCaml](#ocaml)
+- [React](#react)
 - [Sample](#sample)
 
 ## Articles
@@ -35,6 +36,9 @@
 
 ### OCaml
 - [Basic](OCaml/basic.md)
+
+### React
+- [useMemo の使い方](React/use-memo.md)
 
 ### Sample
 - [サンプル記事](Sample/sample-article.md)
