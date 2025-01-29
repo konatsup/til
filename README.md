@@ -19,7 +19,7 @@
 - [Anatomy](ChakuraUI/anatomy.md)
 
 ### Haskell
-- [Haskell Basic](Haskell/basic.md)
+- [Haskell の基礎](Haskell/basic.md)
 
 ### Hoge
 - [Hoge記事](Hoge/hoge-article.md)
