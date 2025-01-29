@@ -12,7 +12,6 @@
 - [Hoge](#hoge)
 - [OCaml](#ocaml)
 - [React](#react)
-- [Sample](#sample)
 
 ## Articles
 ### ChakuraUI
@@ -39,7 +38,4 @@
 
 ### React
 - [useMemo の使い方](React/use-memo.md)
-
-### Sample
-- [サンプル記事](Sample/sample-article.md)
 
